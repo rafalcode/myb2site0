@@ -1,6 +1,6 @@
 - name: Home
-  link: /
+  link: /myb2site0/
 - name: About
-  link: /about.html
+  link: /myb2site0/about.html
 - name: Blog
-  link: /blog.html
+  link: /myb2site0/blog.html
